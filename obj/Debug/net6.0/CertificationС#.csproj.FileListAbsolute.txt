@@ -1,0 +1,15 @@
+C:\Users\nikit\OneDrive\Рабочий стол\CertificationС#\bin\Debug\net6.0\CertificationС#.exe
+C:\Users\nikit\OneDrive\Рабочий стол\CertificationС#\bin\Debug\net6.0\CertificationС#.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\CertificationС#\bin\Debug\net6.0\CertificationС#.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\CertificationС#\bin\Debug\net6.0\CertificationС#.dll
+C:\Users\nikit\OneDrive\Рабочий стол\CertificationС#\bin\Debug\net6.0\CertificationС#.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\CertificationС#\obj\Debug\net6.0\CertificationС#.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\CertificationС#\obj\Debug\net6.0\CertificationС#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\CertificationС#\obj\Debug\net6.0\CertificationС#.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\CertificationС#\obj\Debug\net6.0\CertificationС#.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\CertificationС#\obj\Debug\net6.0\CertificationС#.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\CertificationС#\obj\Debug\net6.0\CertificationС#.dll
+C:\Users\nikit\OneDrive\Рабочий стол\CertificationС#\obj\Debug\net6.0\refint\CertificationС#.dll
+C:\Users\nikit\OneDrive\Рабочий стол\CertificationС#\obj\Debug\net6.0\CertificationС#.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\CertificationС#\obj\Debug\net6.0\CertificationС#.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\CertificationС#\obj\Debug\net6.0\ref\CertificationС#.dll
